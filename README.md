@@ -26,10 +26,10 @@
 
 * 键盘：  
   NIZ mini84 键  
-  ![nizmini84.png](https://github.com/nicekwell/keypad/raw/master/nizmini84.png)
+  ![nizmini84.png](https://github.com/nicekwell/keypad/raw/master/img/nizmini84.png)
   长319，宽133
 * trackpad：  
-  ![trackpad.png](https://github.com/nicekwell/keypad/raw/master/trackpad.png)
+  ![trackpad.png](https://github.com/nicekwell/keypad/raw/master/img/trackpad.png)
   长160，宽115
 
 ## 4. 底座要实现的功能
