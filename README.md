@@ -41,3 +41,8 @@
 5. trackpad和键盘能方便拿下来充电。
 6. trackpad的平面高度可以正好充当手托。
 
+实现后的模型：
+
+![done.png](https://github.com/nicekwell/keypad/raw/master/img/done.png)
+
+
