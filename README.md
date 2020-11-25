@@ -42,7 +42,7 @@ padbed.FCStd：track下面垫板的freeCAD工程。用于把trackpad再往上垫
 1. 包住键盘
 2. 键盘下方合适位置卡住trackpad。
 3. trackpad下面有斜坡补偿，trackpad的在上表面要是水平的。
-4. trackpad上方有盖子，盖住多余部分，留下和macbook触摸板相同大小，防止误触。
+4. trackpad上方有盖子，盖住多余部分，漏出合适大小开口，防止误触同时尽可能增大trackpad使用面积。
 5. trackpad和键盘能方便拿下来充电。
 6. trackpad的平面高度可以正好充当手托。
 
