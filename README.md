@@ -2,6 +2,11 @@
 
 一个可以把键盘和触摸板固定在一起的架子，满足我奇特的需求。
 
+keypad.FCStd：base和盖板的freeCAD工程  
+padbed.FCStd：track下面垫板的freeCAD工程。用于把trackpad再往上垫高一点。  
+
+3D打印机打印尺寸限制，把base和cover（盖板）切割成了4个部分，在out目录里分别输出4个模型文件。
+
 ## 1. 痛点
 
 * macbook的键盘不好用，喜欢自己买的键盘。
