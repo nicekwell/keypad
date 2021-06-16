@@ -7,6 +7,8 @@ padbed.FCStd：track下面垫板的freeCAD工程。用于把trackpad再往上垫
 
 3D打印机打印尺寸限制，把base和cover（盖板）切割成了4个部分，在out目录里分别输出4个模型文件。
 
+适配的磁铁尺寸是：长10mm，宽5mm，厚2mm
+
 ## 1. 痛点
 
 * macbook的键盘不好用，喜欢自己买的键盘。
